@@ -1,0 +1,22 @@
+.student{
+    display: flex;
+    justify-content: space-around;
+    /* grid-template-columns: 80px 200px auto 40px; */
+}
+.student-title{
+    padding-top: 100px;
+}
+.select-tag{
+    padding-left: 90px;
+    margin-top: 95px;
+    font-size: 20px;
+}
+.allstudent{
+    display: grid;
+}
+.icons-green{
+    color: green;
+}
+.icons-red{
+    color: red;
+}
